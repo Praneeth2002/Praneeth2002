@@ -38,6 +38,4 @@ I build intelligent systems that bridge research and real-world applications, wi
 ## 📫 Connect
 
 * ✉️ [praneeth.sunkavalli2002@gmail.com](mailto:praneeth.sunkavalli2002@gmail.com)
-* 💼 [LinkedIn](#) | 🐙 [GitHub](#) | 📖 [Google Scholar](#) | ✍️ [Medium](#)
-
-⭐️ From [Praneeth Sunkavalli](https://github.com/<your-username>)
+* 💼 [LinkedIn](https://www.linkedin.com/in/praneeth-sunkavalli/) | 🐙 [GitHub](https://github.com/Praneeth2002/) | 📖 [Google Scholar](https://scholar.google.com/citations?user=Gm2t25sAAAAJ&hl=en) |
