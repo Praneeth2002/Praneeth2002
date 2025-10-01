@@ -11,7 +11,7 @@ I build intelligent systems that bridge research and real-world applications, wi
 * **Programming**: Python, SQL, R, Java, C
 * **ML/DL**: PyTorch, TensorFlow, scikit-learn, Hugging Face, YOLO, Transformers
 * **Data**: Apache Spark, Pandas, PostgreSQL, MongoDB, ETL Pipelines, Data Warehousing
-* **Cloud**: AWS (SageMaker, Lambda, DynamoDB, AuroraDB), GCP (Vertex AI), Azure ML
+* **Cloud**: AWS, GCP
 * **Visualization**: Power BI, Tableau, Matplotlib, Seaborn, Plotly
 
 ---
